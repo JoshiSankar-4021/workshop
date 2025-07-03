@@ -58,3 +58,4 @@ console.log(sum2(arr));
 //IIFE (Immediately Invoked Function Expression)
 (() => console.log("Hello World!"))();
 console.log(sum2([1,2,3,4,5]));
+console.log("new branch created successfully!");
