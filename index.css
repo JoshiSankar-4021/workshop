@@ -1,0 +1,21 @@
+#p1 {
+                color: red;
+                font-size: 30px;
+                font-family: 'Arial', sans-serif;
+                font-weight: normal;
+            }
+            .p2{
+                color: green;
+                font-size: 25px;
+                font-family: 'Verdana', sans-serif;
+                font-weight: normal;
+            }
+            *{
+                color: rgb(208, 15, 86);
+                font-size: 16px;
+                font-family: 'Times New Roman', Times, serif;
+                font-weight: normal;
+            }
+            p{
+                
+            }
